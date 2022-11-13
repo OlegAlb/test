@@ -20,8 +20,7 @@ index 0000000..0d259dd
 +o/classes
 diff --git a/node_modules/react-native-ussd-dial/android/build/.transforms/84d8623a080b71c00d056335b299f462/transformed/classes/classes.dex b/node_modules/react-native-ussd-dial/android/build/.transforms/84d8623a080b71c00d056335b299f462/transformed/classes/classes.dex
 new file mode 100644
-index 0000000..328efd1
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/.transforms/84d8623a080b71c00d056335b299f462/transformed/classes/classes.dex differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/build/generated/source/buildConfig/debug/com/royceinitiative/RNUssdDial/BuildConfig.java b/node_modules/react-native-ussd-dial/android/build/generated/source/buildConfig/debug/com/royceinitiative/RNUssdDial/BuildConfig.java
 new file mode 100644
 index 0000000..42258f0
@@ -98,12 +97,10 @@ index 0000000..9e26dfe
 \ No newline at end of file
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/compile_library_classes_jar/debug/classes.jar b/node_modules/react-native-ussd-dial/android/build/intermediates/compile_library_classes_jar/debug/classes.jar
 new file mode 100644
-index 0000000..49072c8
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/intermediates/compile_library_classes_jar/debug/classes.jar differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/compile_r_class_jar/debug/R.jar b/node_modules/react-native-ussd-dial/android/build/intermediates/compile_r_class_jar/debug/R.jar
 new file mode 100644
-index 0000000..6fe59e1
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/intermediates/compile_r_class_jar/debug/R.jar differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/compile_symbol_list/debug/R.txt b/node_modules/react-native-ussd-dial/android/build/intermediates/compile_symbol_list/debug/R.txt
 new file mode 100644
 index 0000000..dac804f
@@ -2015,24 +2012,19 @@ index 0000000..814c430
 \ No newline at end of file
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/BuildConfig.class b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/BuildConfig.class
 new file mode 100644
-index 0000000..ffa587d
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/BuildConfig.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/DialerModule.class b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/DialerModule.class
 new file mode 100644
-index 0000000..aea9036
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/DialerModule.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/DialerPackage.class b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/DialerPackage.class
 new file mode 100644
-index 0000000..9dcb60b
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/DialerPackage.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/RNUssdDialModule.class b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/RNUssdDialModule.class
 new file mode 100644
-index 0000000..c97cc90
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/RNUssdDialModule.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/RNUssdDialPackage.class b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/RNUssdDialPackage.class
 new file mode 100644
-index 0000000..2192de4
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/intermediates/javac/debug/classes/com/royceinitiative/RNUssdDial/RNUssdDialPackage.class differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/local_only_symbol_list/debug/R-def.txt b/node_modules/react-native-ussd-dial/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
 new file mode 100644
 index 0000000..78ac5b8
@@ -2109,8 +2101,7 @@ index 0000000..32d2db3
 \ No newline at end of file
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar b/node_modules/react-native-ussd-dial/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar
 new file mode 100644
-index 0000000..22662e2
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt b/node_modules/react-native-ussd-dial/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
 new file mode 100644
 index 0000000..0d2a685
@@ -3530,8 +3521,7 @@ index 0000000..ed94957
 +		INJECTED from C:\Users\Ginso\Desktop\test\node_modules\react-native-ussd-dial\android\src\main\AndroidManifest.xml
 diff --git a/node_modules/react-native-ussd-dial/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/react-native-ussd-dial/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
 new file mode 100644
-index 0000000..9c2d123
-Binary files /dev/null and b/node_modules/react-native-ussd-dial/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+index 0000000..e69de29
 diff --git a/node_modules/react-native-ussd-dial/android/src/main/java/com/royceinitiative/RNUssdDial/DialerModule.java b/node_modules/react-native-ussd-dial/android/src/main/java/com/royceinitiative/RNUssdDial/DialerModule.java
 index 1b661e9..0bf1b40 100644
 --- a/node_modules/react-native-ussd-dial/android/src/main/java/com/royceinitiative/RNUssdDial/DialerModule.java
@@ -3585,10 +3575,10 @@ index 66669a9..86217f5 100644
      dialNumber: (number) => {
          NativeModules.Device.dialNumber((number) => {
 diff --git a/node_modules/react-native-ussd-dial/ios/RNUssdDial.h b/node_modules/react-native-ussd-dial/ios/RNUssdDial.h
-index c4215a1..08c0f49 100644
+index c4215a1..6887f3e 100644
 --- a/node_modules/react-native-ussd-dial/ios/RNUssdDial.h
 +++ b/node_modules/react-native-ussd-dial/ios/RNUssdDial.h
-@@ -1,11 +1,10 @@
+@@ -1,9 +1,7 @@
 +#ifndef RCTPoseDetectionModule_h
 +#define RCTPoseDetectionModule_h
  
@@ -3600,10 +3590,6 @@ index c4215a1..08c0f49 100644
  
  @interface RNUssdDial : NSObject <RCTBridgeModule>
  
- @end
- 
-+#endif
-\ No newline at end of file
 diff --git a/node_modules/react-native-ussd-dial/ios/RNUssdDial.m b/node_modules/react-native-ussd-dial/ios/RNUssdDial.m
 index 666d919..edd19ac 100644
 --- a/node_modules/react-native-ussd-dial/ios/RNUssdDial.m
@@ -3615,7 +3601,7 @@ index 666d919..edd19ac 100644
  
  @implementation RNUssdDial
  
-@@ -7,7 +8,12 @@
+@@ -7,7 +8,12 @@ - (dispatch_queue_t)methodQueue
  {
      return dispatch_get_main_queue();
  }
@@ -3630,3 +3616,16 @@ index 666d919..edd19ac 100644
  @end
    
 \ No newline at end of file
+diff --git a/node_modules/react-native-ussd-dial/ios/RNUssdDial.podspec b/node_modules/react-native-ussd-dial/ios/RNUssdDial.podspec
+index 18e2516..1f1232c 100644
+--- a/node_modules/react-native-ussd-dial/ios/RNUssdDial.podspec
++++ b/node_modules/react-native-ussd-dial/ios/RNUssdDial.podspec
+@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
+   s.description  = <<-DESC
+                   RNUssdDial
+                    DESC
+-  s.homepage     = ""
++  s.homepage     = "https://github.com/author/RNUssdDial"
+   s.license      = "MIT"
+   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+   s.author             = { "author" => "author@domain.cn" }
