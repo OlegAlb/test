@@ -1,5 +1,5 @@
 import React from 'react';
-import {Button} from 'react-native';
+import {Button, SafeAreaView} from 'react-native';
 import RNUssdDial from 'react-native-ussd-dial';
 
 const App = () => {
@@ -9,7 +9,9 @@ const App = () => {
   };
 
   return (
-    <Button onPress={getDeviceName} title="get device name" color="#841584" />
+    <SafeAreaView>
+      <Button onPress={getDeviceName} title="get device name" color="#841584" />
+    </SafeAreaView>
   );
 };
 
