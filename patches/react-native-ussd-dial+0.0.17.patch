@@ -3556,10 +3556,10 @@ index 1b661e9..0bf1b40 100644
     }
     //Custom function to dial numbers
 diff --git a/node_modules/react-native-ussd-dial/index.js b/node_modules/react-native-ussd-dial/index.js
-index 66669a9..86217f5 100644
+index 66669a9..0d81ddb 100644
 --- a/node_modules/react-native-ussd-dial/index.js
 +++ b/node_modules/react-native-ussd-dial/index.js
-@@ -1,13 +1,9 @@
+@@ -1,13 +1,10 @@
  
  import { NativeModules, Alert } from 'react-native';
  
@@ -3570,6 +3570,7 @@ index 66669a9..86217f5 100644
 -        NativeModules.Device.getDeviceName((err, name) => {
 -            console.log(err, name);
 -        });
++        console.log(NativeModules);
 +        return NativeModules.RNUssdDial.getDeviceName();
      },
      dialNumber: (number) => {
